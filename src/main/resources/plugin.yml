@@ -1,0 +1,4 @@
+name: stuffy
+version: '1.0-SNAPSHOT'
+main: mc.stuffy.untitled.Untitled
+api-version: '1.21'
